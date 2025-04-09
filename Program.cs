@@ -1,3 +1,6 @@
+
+﻿using Rakan;
+=======
 ﻿// See https://aka.ms/new-console-template for more information
 using modul7_kelompok_5;
 
@@ -5,13 +8,15 @@ class Program
 {
     static void Main(string[] args)
     {
-        DataMahasiswa_103022330096 mhs = new DataMahasiswa_103022330096();
-        mhs.ReadJson();
+        DataMahasiswa1030223330044 mahasiswa = new DataMahasiswa1030223330044();
+        TeamMembers103022330044 members = new TeamMembers103022330044();
+        GlossaryItem103022330044 gloss = new GlossaryItem103022330044();
+        mahasiswa.ReadJSON();
 
-        TeamMembers_103022330096 members = new TeamMembers_103022330096();
-        members.ReadJson();
-
-        GlossaryItem_103022330096 gc = new GlossaryItem_103022330096();
-        gc.ReadJson();
+        Console.WriteLine();
+        members.ReadJSON();
+        
+        Console.WriteLine();
+        gloss.ReadJSON();
     }
 }
