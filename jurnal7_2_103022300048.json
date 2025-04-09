@@ -1,0 +1,39 @@
+{
+    "members": [
+        {
+            "firstName": "Muhammad Faiz",
+            "lastName": "Adya",
+            "gender": "male",
+            "age": 19,
+            "nim": "1030223000048"
+        },
+        {
+            "firstName": "Muhammad Rakan",
+            "lastName": "Yusra",
+            "gender": "male",
+            "age": 19,
+            "nim": "1030223xxxxx"
+        },
+        {
+            "firstName": "Raka Valrizqy",
+            "lastName": "Akhdansyah",
+            "gender": "male",
+            "age": 20,
+            "nim": "1030223xxxxx"
+        },
+        {
+            "firstName": "Naufal",
+            "lastName": "Fahreza",
+            "gender": "male",
+            "age": 19,
+            "nim": "1030223xxxxx"
+        },
+        {
+            "firstName": "Duhan",
+            "lastName": "Hasanain",
+            "gender": "male",
+            "age": 20,
+            "nim": "1030223xxxxx"
+        }
+    ]
+}
