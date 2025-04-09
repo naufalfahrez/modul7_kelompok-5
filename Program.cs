@@ -10,5 +10,8 @@ class Program
 
         TeamMembers_103022330096 members = new TeamMembers_103022330096();
         members.ReadJson();
+
+        GlossaryItem_103022330096 gc = new GlossaryItem_103022330096();
+        gc.ReadJson();
     }
 }
