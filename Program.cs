@@ -1,5 +1,6 @@
 ﻿using System;
 using Naufal;
+using Tim;
 
 namespace program_naufal
 {
@@ -9,6 +10,9 @@ namespace program_naufal
         {
             var data = new DataMahasiswa_103022330105();
             data.ReadJSON();
+
+            var tim = new TeamMembers_103022330105();
+            tim.ReadJSON();
 
             Console.ReadKey();
         }
