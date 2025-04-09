@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+      "firstName": "Naufal",
+      "lastName": "Fahreza",
+      "gender": "male",
+      "age": 19,
+      "nim": "103022330105"
+    },
+    {
+      "firstName": "Faiz",
+      "lastName": "Adya",
+      "gender": "male",
+      "age": 19,
+      "nim": "103022300048"
+    },
+    {
+      "firstName": "Rakan",
+      "lastName": "Yusra",
+      "gender": "male",
+      "age": 19,
+      "nim": "103022330044"
+    },
+    {
+      "firstName": "Raka",
+      "lastName": "Valrizqy",
+      "gender": "male",
+      "age": 19,
+      "nim": "103022330096"
+    }
+  ]
+}
