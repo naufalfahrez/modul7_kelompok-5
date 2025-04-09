@@ -7,5 +7,8 @@ class Program
     {
         DataMahasiswa_103022330096 mhs = new DataMahasiswa_103022330096();
         mhs.ReadJson();
+
+        TeamMembers_103022330096 members = new TeamMembers_103022330096();
+        members.ReadJson();
     }
 }
