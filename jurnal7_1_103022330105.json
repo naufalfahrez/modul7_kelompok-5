@@ -1,0 +1,15 @@
+{
+   "firstName": "Naufal",
+   "lastName": "Fahreza",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Doro",
+       "city": "Pekalongan",
+       "state": "Central Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2C8", "name": "Bahasa Inggris 2" }
+   ]
+}
